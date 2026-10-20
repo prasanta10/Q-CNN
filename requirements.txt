@@ -1,0 +1,15 @@
+# Core Machine Learning & Vision
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Quantization and Optimization (PyTorch Architecture Optimization)
+torchao
+
+# CPU Inference Benchmarking
+onnx
+onnxruntime
+
+# Utility & Visualization
+tqdm
+matplotlib
+tabulate
